@@ -1,3 +1,3 @@
-# voice-recognization-webapp-using-API
+# Voice-Recognization-Webapp-Using-API
 In this web app i am using an API(google-api) which can recognize the speech and convert it into a text format.
-In this webapp a download section is also available which can downlad a text file into .txt format.
+You can also downlad a text file.
